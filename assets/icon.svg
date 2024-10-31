@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 297.64 322.5">
+  <defs>
+    <style>
+      .part-1 {
+        fill: #ecf8fe;
+      }
+      .part-2 {
+        fill: #00aeef;
+      }
+      .part-3,
+      .part-4 {
+        fill: none;
+        stroke: #00649d;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+      .part-3 {
+        stroke-width: 5px;
+      }
+      .part-4 {
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g>
+    <g><rect class="part-1" width="297.64" height="322.5" /></g>
+    <g>
+      <path class="part-2" d="M137.27,36.84V165.91h-.16l-86.88,95.3a129.07,129.07,0,1,0,87-224.37Z" />
+    </g>
+    <g>
+      <line class="part-3" x1="118.15" y1="55.4" x2="97.51" y2="55.4" />
+      <line class="part-3" x1="118.15" y1="72.13" x2="70.41" y2="72.13" />
+      <line class="part-3" x1="118.15" y1="94.12" x2="48.55" y2="94.12" />
+      <line class="part-3" x1="118.15" y1="116.18" x2="33.28" y2="116.18" />
+      <line class="part-3" x1="118.15" y1="139.83" x2="25.12" y2="139.83" />
+      <line class="part-3" x1="118.15" y1="164.09" x2="21.02" y2="164.09" />
+      <line class="part-3" x1="87.33" y1="185.53" x2="23.67" y2="185.53" />
+      <line class="part-3" x1="72.85" y1="208.95" x2="29.2" y2="208.95" />
+      <line class="part-3" x1="58.81" y1="232.37" x2="39.36" y2="232.37" />
+    </g>
+    <g>
+      <line class="part-4" x1="195.15" y1="65.65" x2="188.76" y2="76.72" />
+      <line class="part-4" x1="253.03" y1="165.91" x2="240.26" y2="165.91" />
+      <line class="part-4" x1="195.15" y1="266.16" x2="188.76" y2="255.1" />
+    </g>
+    <g>
+      <path class="part-4" d="M41.42,276.94c25.41,21,62,34.17,97.54,34.17a147,147,0,0,0,0-294" />
+    </g>
+  </g>
+</svg>
